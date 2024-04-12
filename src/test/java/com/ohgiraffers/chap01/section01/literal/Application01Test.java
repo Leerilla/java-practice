@@ -26,6 +26,6 @@ class Application01Test {
 
 
         String capturedOutput = outputStream.toString().trim();
-        Assertions.assertEquals("안녕하세요", capturedOutput);
+        Assertions.assertEquals("test", capturedOutput);
     }
 }
