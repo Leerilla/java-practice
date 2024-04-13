@@ -12,6 +12,8 @@ import static org.junit.jupiter.api.Assertions.*;
 class Application01Test {
 
 
+
+
     @Test
     @DisplayName("literal 테스트")
     void literal(){
