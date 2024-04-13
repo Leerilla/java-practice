@@ -4,5 +4,8 @@ public class Application01 {
     public static void main(String[] args){
         // 즐거운 자바를 화면에 출력해주세요
         // 출력예시) 즐거운 자바
+    System.out.print("즐거운 자바");
+
+
     }
 }
