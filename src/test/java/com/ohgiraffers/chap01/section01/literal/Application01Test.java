@@ -11,7 +11,6 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class Application01Test {
 
-
     @Test
     @DisplayName("literal 테스트")
     void literal(){
@@ -27,5 +26,7 @@ class Application01Test {
 
         String capturedOutput = outputStream.toString().trim();
         Assertions.assertEquals("즐거운 자바", capturedOutput);
+
+
     }
 }
